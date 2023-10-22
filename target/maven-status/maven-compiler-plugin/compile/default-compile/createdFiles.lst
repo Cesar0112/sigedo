@@ -1,0 +1,16 @@
+cu\edu\cujae\pweb\service\UserServiceImpl.class
+cu\edu\cujae\pweb\bean\ManageStudentBean.class
+cu\edu\cujae\pweb\service\StudentService.class
+cu\edu\cujae\pweb\service\RoleServiceImpl.class
+cu\edu\cujae\pweb\service\StudentServiceImpl.class
+cu\edu\cujae\pweb\service\UserService.class
+cu\edu\cujae\pweb\bean\ManageUserBean.class
+cu\edu\cujae\pweb\config\SpringConfig.class
+cu\edu\cujae\pweb\config\MainWebAppInitializer.class
+cu\edu\cujae\pweb\utils\JsfUtils.class
+cu\edu\cujae\pweb\dto\RoleDto.class
+cu\edu\cujae\pweb\bean\UserBean.class
+cu\edu\cujae\pweb\dto\StudentDto.class
+cu\edu\cujae\pweb\service\RoleService.class
+cu\edu\cujae\pweb\dto\UserDto.class
+cu\edu\cujae\pweb\bean\StudentBean.class
